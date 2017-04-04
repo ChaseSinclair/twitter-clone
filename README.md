@@ -1,24 +1,13 @@
 # README
+A React on Rails Twitter Clone.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Run Project Locally
+* First, run webpack in file watching mode.
 
-Things you may want to cover:
+  webpack -w
 
-* Ruby version
+* Run the Rails server
 
-* System dependencies
+  rails s
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  * Navigate to http://localhost:3000/
