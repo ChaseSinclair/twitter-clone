@@ -1,4 +1,4 @@
-export default class Tweets extends React.Component {
+export default class Tweet extends React.Component {
   render() {
     return (
       <li className="collection-item avatar">
