@@ -2,12 +2,16 @@
 A React on Rails Twitter Clone.
 
 # Run Project Locally
-* First, run webpack in file watching mode.
+* First, bundle assets with webpack.
 
-  webpack -w
+  `webpack`
+  
+  Note: You can also run webpack in file watching mode.
+
+  `webpack -w`
 
 * Run the Rails server
 
-  rails s
+  `rails s`
 
-  * Navigate to http://localhost:3000/
+* Navigate to http://localhost:3000/
